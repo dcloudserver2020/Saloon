@@ -1,0 +1,12 @@
+D:\VIGNESH\MY PROGRAM\Gallery\Gallery\Mainpulator\bin\Debug\Mainpulator.dll
+D:\VIGNESH\MY PROGRAM\Gallery\Gallery\Mainpulator\bin\Debug\Mainpulator.pdb
+D:\VIGNESH\MY PROGRAM\Gallery\Gallery\Mainpulator\obj\Debug\Mainpulator.csproj.CoreCompileInputs.cache
+D:\VIGNESH\MY PROGRAM\Gallery\Gallery\Mainpulator\obj\Debug\Mainpulator.dll
+D:\VIGNESH\MY PROGRAM\Gallery\Gallery\Mainpulator\obj\Debug\Mainpulator.pdb
+D:\VIGNESH\MY PROGRAM\Gallery\Gallery\Mainpulator\obj\Debug\Mainpulator.csprojAssemblyReference.cache
+D:\VIGNESH\MY PROGRAM\DOT\DOT\Gallery\Mainpulator\bin\Debug\Mainpulator.dll
+D:\VIGNESH\MY PROGRAM\DOT\DOT\Gallery\Mainpulator\bin\Debug\Mainpulator.pdb
+D:\VIGNESH\MY PROGRAM\DOT\DOT\Gallery\Mainpulator\obj\Debug\Mainpulator.csproj.CoreCompileInputs.cache
+D:\VIGNESH\MY PROGRAM\DOT\DOT\Gallery\Mainpulator\obj\Debug\Mainpulator.dll
+D:\VIGNESH\MY PROGRAM\DOT\DOT\Gallery\Mainpulator\obj\Debug\Mainpulator.pdb
+D:\VIGNESH\MY PROGRAM\DOT\DOT\Gallery\Mainpulator\obj\Debug\Mainpulator.csprojAssemblyReference.cache
